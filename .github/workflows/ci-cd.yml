@@ -72,3 +72,4 @@ jobs:
             docker pull dhinucphilip/grpc-client:latest
             docker compose up -d
           '
+          
